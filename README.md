@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anuj Chaudhary 👋
 
-<!--
-**anonymous8528/anonymous8528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science, Shri Ramswaroop Memorial University (2026)  
+💻 Full-Stack Developer — MERN Stack | Java  
+📍 Lucknow, India | Open to roles in Noida, Delhi, Gurgaon  
+📬 canuj8528@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Live |
+|---|---|---|
+| **Citi Care** | Municipal issue reporting — JWT auth, RBAC, GPS | [View](https://anonymous8528.github.io/citi-care-/) |
+| **HomeVista Interior** | Full-stack business platform | [View](https://homevista-interior.vercel.app) |
+
+---
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anuj-chaudhary-34b9aa284)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://anonymous8528.github.io/portfolio)
