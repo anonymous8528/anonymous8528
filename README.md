@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science, Shri Ramswaroop Memorial University (2026)  
 💻 Full-Stack Developer — MERN Stack | Java  
 📍 Lucknow, India | Open to roles in Noida, Delhi, Gurgaon  
-📬 canuj8528@gmail.com
+📬 anujchaudhary8528@gmail.com
 
 ---
 
